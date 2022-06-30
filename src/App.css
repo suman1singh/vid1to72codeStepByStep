@@ -12,6 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.navbar52 {
+text-align: right;
+}
+.navbar52 li {
+display: inline-block;
+padding: 10px 5px;
+}
+.nav-bar-link {
+  color: yellow;
+  text-decoration: none;
+}
+.nav-bar-link:hover {
+  color: #33ff00;
+  text-decoration: none;
+}
+/* .navbar52 .active {
+  color: fuchsia;
+  background-color: black;
+} */
 
 .App-header {
   background-color: #282c34;

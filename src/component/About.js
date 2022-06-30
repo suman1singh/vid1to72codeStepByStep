@@ -9,7 +9,7 @@ export default function About() {
       <p>Here we are learning about router</p>
       <Link to="/">Go to Home page</Link>
       <li>
-        <Link to="/user51/suman">Suman</Link>
+        <Link to="/user51/suman" state={{profession:'engg', age: 25}}>Suman</Link>
       </li>
       <li>
         <Link to="/user51/shree">Shree</Link>
